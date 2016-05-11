@@ -1,0 +1,23 @@
+{
+  "name": "instapop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "description": "This is a full-fledged app where popular Instagram pictures will be displayed.",
+  "keywords": [
+    "Node",
+    "EJS",
+    "Instagram",
+    "Express",
+    "WebApp"
+  ],
+  "author": "Ferdosu Al-Quraeshi",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "instagram-node": "^0.5.8"
+  }
+}
